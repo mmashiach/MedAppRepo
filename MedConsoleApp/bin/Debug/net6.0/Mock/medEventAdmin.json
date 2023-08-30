@@ -1,0 +1,80 @@
+[
+  {
+    "patient_id": "patient1",
+    "medication_name": "Insulin",
+    "action": "start",
+    "event_time": "2023-08-26T08:00:00"
+  },
+  {
+    "patient_id": "patient2",
+    "medication_name": "Medication B",
+    "action": "start",
+    "event_time": "2023-08-26T09:30:00"
+  },
+  {
+    "patient_id": "patient1",
+    "medication_name": "Insulin",
+    "action": "stop",
+    "event_time": "2023-08-26T10:15:00"
+  },
+  {
+    "patient_id": "patient2",
+    "medication_name": "Medication B",
+    "action": "stop",
+    "event_time": "2023-08-26T11:00:00"
+  },
+  {
+    "patient_id": "patient1",
+    "medication_name": "Insulin",
+    "action": "start",
+    "event_time": "2023-08-26T13:00:00"
+  },
+  {
+    "patient_id": "patient1",
+    "medication_name": "Insulin",
+    "action": "stop",
+    "event_time": "2023-08-26T14:30:00"
+  },
+  {
+    "patient_id": "patient1",
+    "medication_name": "Insulin",
+    "action": "cancel_start",
+    "event_time": "2023-08-26T14:45:00"
+  },
+  {
+    "patient_id": "patient2",
+    "medication_name": "Medication B",
+    "action": "start",
+    "event_time": "2023-08-26T15:00:00"
+  },
+  {
+    "patient_id": "patient2",
+    "medication_name": "Medication B",
+    "action": "cancel_stop",
+    "event_time": "2023-08-26T16:00:00"
+  },
+  {
+    "patient_id": "patient2",
+    "medication_name": "Medication B",
+    "action": "stop",
+    "event_time": "2023-08-26T16:30:00"
+  },
+  {
+    "patient_id": "patient3",
+    "medication_name": "Medication C",
+    "action": "start",
+    "event_time": "2023-08-26T12:45:00"
+  },
+  {
+    "patient_id": "patient3",
+    "medication_name": "Medication C",
+    "action": "stop",
+    "event_time": "2023-08-26T14:00:00"
+  },
+  {
+    "patient_id": "patient3",
+    "medication_name": "Medication C",
+    "action": "start",
+    "event_time": "2023-08-26T15:15:00"
+  }
+]
